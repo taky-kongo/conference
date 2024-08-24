@@ -5,3 +5,6 @@ spring:
       suffix: .jsp
   application:
     name: conference
+  thymeleaf:
+    prefix: /WEB-INF/views/
+    suffix: .html
